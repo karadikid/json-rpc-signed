@@ -1,0 +1,26 @@
+{
+  "name": "json-rpc-signed",
+  "version": "1.0.0",
+  "description": "Chainshot Signed JSON-RPC Activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karadikid/json-rpc-signed.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karadikid/json-rpc-signed/issues"
+  },
+  "homepage": "https://github.com/karadikid/json-rpc-signed#readme",
+  "dependencies": {
+    "@ethereumjs/common": "^2.6.1",
+    "@ethereumjs/tx": "^3.5.0",
+    "axios": "^0.25.0",
+    "dotenv": "^15.0.0"
+  }
+}
